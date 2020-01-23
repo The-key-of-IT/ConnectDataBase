@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85ce9399-bb1b-45d4-959a-5b7d8ad24bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="85ce9399-bb1b-45d4-959a-5b7d8ad24bd4" name="Default Changelist" comment="完成部分功能">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access.iml" beforeDir="false" afterPath="$PROJECT_DIR$/access.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/access/ConnectionDa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/access/ConnectionDa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConnectionDa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConnectionDa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Upload/Upload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Upload/Upload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/is2String/is2String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/is2String/is2String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,12 +100,24 @@
       <workItem from="1579395288420" duration="3511000" />
       <workItem from="1579492213733" duration="661000" />
       <workItem from="1579658358394" duration="9294000" />
-      <workItem from="1579742018135" duration="3981000" />
+      <workItem from="1579742018135" duration="4597000" />
     </task>
+    <task id="LOCAL-00001" summary="完成部分功能">
+      <created>1579746238753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579746238753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成部分功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成部分功能" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="39" width="627" height="671" key="#ConnectionDa" timestamp="1579745298346">
@@ -150,6 +154,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="468" y="138" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1579661637480" />
+    <state x="275" y="15" key="CommitChangelistDialog2" timestamp="1579746290939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="275" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579746290939" />
     <state x="489" y="198" key="FileChooserDialogImpl" timestamp="1579161470141">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -191,11 +199,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="670" height="253" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1579686902061" />
-    <state x="278" y="92" width="998" height="716" key="SettingsEditor" timestamp="1579336532158">
+    <state x="278" y="92" width="998" height="716" key="SettingsEditor" timestamp="1579746734890">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578748084225" />
-    <state x="278" y="92" width="998" height="716" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579336532158" />
+    <state x="278" y="92" width="998" height="716" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579746734890" />
     <state width="700" height="410" key="XDebugger.FullValuePopup" timestamp="1579337875384">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
